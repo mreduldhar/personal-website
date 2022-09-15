@@ -1,0 +1,25 @@
+*body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    font-size: 50px;
+}
+
+
+.header-part img{
+    width: 100%;
+}
+
+.header-part{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+
+}
+
+.name-highlight{
+    color: #FF1872
+}
